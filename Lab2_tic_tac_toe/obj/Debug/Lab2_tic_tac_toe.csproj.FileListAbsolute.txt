@@ -1,0 +1,33 @@
+c:\users\hp1\documents\visual studio 2015\Projects\Lab2_tic_tac_toe\Lab2_tic_tac_toe\bin\Debug\Lab2_tic_tac_toe.exe.config
+c:\users\hp1\documents\visual studio 2015\Projects\Lab2_tic_tac_toe\Lab2_tic_tac_toe\bin\Debug\Lab2_tic_tac_toe.exe
+c:\users\hp1\documents\visual studio 2015\Projects\Lab2_tic_tac_toe\Lab2_tic_tac_toe\bin\Debug\Lab2_tic_tac_toe.pdb
+c:\users\hp1\documents\visual studio 2015\Projects\Lab2_tic_tac_toe\Lab2_tic_tac_toe\obj\Debug\Lab2_tic_tac_toe.csprojResolveAssemblyReference.cache
+c:\users\hp1\documents\visual studio 2015\Projects\Lab2_tic_tac_toe\Lab2_tic_tac_toe\obj\Debug\Lab2_tic_tac_toe.FormTicTacToe.resources
+c:\users\hp1\documents\visual studio 2015\Projects\Lab2_tic_tac_toe\Lab2_tic_tac_toe\obj\Debug\Lab2_tic_tac_toe.Properties.Resources.resources
+c:\users\hp1\documents\visual studio 2015\Projects\Lab2_tic_tac_toe\Lab2_tic_tac_toe\obj\Debug\Lab2_tic_tac_toe.csproj.GenerateResource.Cache
+c:\users\hp1\documents\visual studio 2015\Projects\Lab2_tic_tac_toe\Lab2_tic_tac_toe\obj\Debug\Lab2_tic_tac_toe.exe
+c:\users\hp1\documents\visual studio 2015\Projects\Lab2_tic_tac_toe\Lab2_tic_tac_toe\obj\Debug\Lab2_tic_tac_toe.pdb
+C:\Users\hp1\Documents\Visual Studio 2015\Projects\Net\Lab2_tic_tac_toe\Lab2_tic_tac_toe\bin\Debug\Lab2_tic_tac_toe.exe.config
+C:\Users\hp1\Documents\Visual Studio 2015\Projects\Net\Lab2_tic_tac_toe\Lab2_tic_tac_toe\obj\Debug\Lab2_tic_tac_toe.exe
+C:\Users\hp1\Documents\Visual Studio 2015\Projects\Net\Lab2_tic_tac_toe\Lab2_tic_tac_toe\obj\Debug\Lab2_tic_tac_toe.pdb
+C:\Users\Natalya\Documents\Visual Studio 2015\Projects\Lab2_tic_tac_toe\Lab2_tic_tac_toe\bin\Debug\Lab2_tic_tac_toe.exe.config
+C:\Users\Natalya\Documents\Visual Studio 2015\Projects\Lab2_tic_tac_toe\Lab2_tic_tac_toe\obj\Debug\Lab2_tic_tac_toe.exe
+C:\Users\Natalya\Documents\Visual Studio 2015\Projects\Lab2_tic_tac_toe\Lab2_tic_tac_toe\obj\Debug\Lab2_tic_tac_toe.pdb
+C:\Users\Natalya\Documents\Visual Studio 2015\Projects\Lab2_tic_tac_toe\Lab2_tic_tac_toe\bin\Debug\Lab2_tic_tac_toe.exe
+C:\Users\Natalya\Documents\Visual Studio 2015\Projects\Lab2_tic_tac_toe\Lab2_tic_tac_toe\bin\Debug\Lab2_tic_tac_toe.pdb
+C:\Users\Natalya\Documents\Visual Studio 2015\Projects\Lab2_tic_tac_toe\Lab2_tic_tac_toe\obj\Debug\Lab2_tic_tac_toe.csprojResolveAssemblyReference.cache
+C:\Users\Natalya\Documents\Visual Studio 2015\Projects\Lab2_tic_tac_toe\Lab2_tic_tac_toe\obj\Debug\Lab2_tic_tac_toe.FormTicTacToe.resources
+C:\Users\Natalya\Documents\Visual Studio 2015\Projects\Lab2_tic_tac_toe\Lab2_tic_tac_toe\obj\Debug\Lab2_tic_tac_toe.Properties.Resources.resources
+C:\Users\Natalya\Documents\Visual Studio 2015\Projects\Lab2_tic_tac_toe\Lab2_tic_tac_toe\obj\Debug\Lab2_tic_tac_toe.csproj.GenerateResource.Cache
+D:\Лабы\5 семестр\DotNet\Lab2_tic_tac_toe\Lab2_tic_tac_toe\obj\Debug\Lab2_tic_tac_toe.pdb
+D:\Лабы\5 семестр\DotNet\Lab2_tic_tac_toe\Lab2_tic_tac_toe\bin\Debug\Lab2_tic_tac_toe.exe.config
+D:\Лабы\5 семестр\DotNet\Lab2_tic_tac_toe\Lab2_tic_tac_toe\bin\Debug\Lab2_tic_tac_toe.exe
+D:\Лабы\5 семестр\DotNet\Lab2_tic_tac_toe\Lab2_tic_tac_toe\bin\Debug\Lab2_tic_tac_toe.pdb
+D:\Лабы\5 семестр\DotNet\Lab2_tic_tac_toe\Lab2_tic_tac_toe\obj\Debug\Lab2_tic_tac_toe.csprojResolveAssemblyReference.cache
+D:\Лабы\5 семестр\DotNet\Lab2_tic_tac_toe\Lab2_tic_tac_toe\obj\Debug\Lab2_tic_tac_toe.FormTicTacToe.resources
+D:\Лабы\5 семестр\DotNet\Lab2_tic_tac_toe\Lab2_tic_tac_toe\obj\Debug\Lab2_tic_tac_toe.Properties.Resources.resources
+D:\Лабы\5 семестр\DotNet\Lab2_tic_tac_toe\Lab2_tic_tac_toe\obj\Debug\Lab2_tic_tac_toe.csproj.GenerateResource.Cache
+D:\Лабы\5 семестр\DotNet\Lab2_tic_tac_toe\Lab2_tic_tac_toe\obj\Debug\Lab2_tic_tac_toe.exe
+D:\Учеба\Лабы\5 семестр\DotNet\Lab2_tic_tac_toe\Lab2_tic_tac_toe\bin\Debug\Lab2_tic_tac_toe.exe.config
+D:\Учеба\Лабы\5 семестр\DotNet\Lab2_tic_tac_toe\Lab2_tic_tac_toe\obj\Debug\Lab2_tic_tac_toe.exe
+D:\Учеба\Лабы\5 семестр\DotNet\Lab2_tic_tac_toe\Lab2_tic_tac_toe\obj\Debug\Lab2_tic_tac_toe.pdb
